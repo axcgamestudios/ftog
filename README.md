@@ -2,6 +2,10 @@
 
 **Drop in. Loot up. Build. Survive.**
 
+**▶ JUGAR AHORA:** **[https://axcgamestudios.github.io/ftog/](https://axcgamestudios.github.io/ftog/)**
+
+**Enlace directo: `https://axcgamestudios.github.io/ftog/`** — abre el juego y dale a jugar (modo Battle Royale contra 99 bots o campo de práctica).
+
 A web-based recreation of the classic Fortnite OG experience, inspired by Chapter 1's original gameplay, building mechanics, weapons, environments, and iconic visual style.
 
 Experience the classic Battle Royale formula directly in your browser, with no traditional game engine required.
