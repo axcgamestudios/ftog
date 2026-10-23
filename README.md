@@ -4,7 +4,9 @@
 
 **▶ JUGAR AHORA:** **[https://axcgamestudios.github.io/ftog/](https://axcgamestudios.github.io/ftog/)**
 
-**Enlace directo: `https://axcgamestudios.github.io/ftog/`** — abre el juego y dale a jugar (modo Battle Royale contra 99 bots o campo de práctica).
+**Enlace directo: `https://axcgamestudios.github.io/ftog/`** — abre el juego y dale a jugar (modo Battle Royale o campo de práctica).
+
+**isla EXACTA del modelo Chapter 2**: el terreno se rasterizó directamente del scan 3D del mapa real (c2_world_height.png + biomas del minimapa auténtico) — misma silueta, montañas, lagos, ríos y 12 POIs reales (Sweaty Sands, Pleasant Park, Craggy Cliffs, Dirty Docks, Frenzy Farm, Retail Row, Lazy Lake, Misty Meadows, Slurpy Swamp, Weeping Woods, Holly Hedges, Salty Springs).
 
 A web-based recreation of the classic Fortnite OG experience, inspired by Chapter 1's original gameplay, building mechanics, weapons, environments, and iconic visual style.
 
